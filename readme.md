@@ -1,6 +1,10 @@
-###Ember Sass Package
+##Ember Sass Package
 
-##Setup Instructions
+**_base contains browser box sizing styling to avoid awkward default behavior**
+
+**This package includes Bourbon and Neat**
+
+###Setup Instructions
 
 -Put these files within your Ember app/styles folder
 
