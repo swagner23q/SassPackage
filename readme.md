@@ -1,6 +1,7 @@
 ##Ember Sass Package
 
 **_base contains browser box sizing styling to avoid awkward default behavior**
+
 **_mixins contains a font face mixin and basic font styling mixin**
 
 **This package includes Bourbon and Neat**
